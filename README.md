@@ -13,3 +13,6 @@ The examples demonstrate:
 - Basic data analysis techniques.
 
 Data analysis is also provided.
+
+## Schema `bicycle_sales_database`
+<img src="./images/schema_layout.PNG">
